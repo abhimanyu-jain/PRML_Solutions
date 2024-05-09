@@ -12,6 +12,12 @@ Solutions to some exercises from Chapter 2 committed. Missing Solutions to : 2.4
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+10-05-2024
+
+Solutions to some exercises from Chapter 3 committed. Missing Solutions to : 3.5, 3.15
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Note 1: For exercises identical to those in Mathematics for Machine Learning, I've referenced the solutions and avoided duplication.
 
 Note 2: I typically utilize results directly from the Matrix Cookbook, with specific references provided.

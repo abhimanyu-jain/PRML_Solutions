@@ -14,7 +14,13 @@ Solutions to some exercises from Chapter 2 committed. Missing Solutions to : 2.4
 
 10-05-2024
 
-Solutions to some exercises from Chapter 3 committed. Missing Solutions to : 3.5, 3.15
+Solutions to most exercises from Chapter 3 committed. Missing Solutions to : 3.5, 3.15
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+30-05-2024
+
+Solutions to most exercises from Chapter 4 committed. Missing Solutions to : 4.2, 4.3, 4.23
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

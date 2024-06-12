@@ -27,3 +27,9 @@ Solutions to most exercises from Chapter 4 committed. Missing Solutions to : 4.2
 Note 1: For exercises identical to those in Mathematics for Machine Learning, I've referenced the solutions and avoided duplication.
 
 Note 2: I typically utilize results directly from the Matrix Cookbook, with specific references provided.
+
+
+## Contributing
+
+If you find any errors in the solutions or have suggestions for improvement, please feel free to submit a pull request. Your contributions are greatly appreciated!
+

@@ -1,7 +1,5 @@
 # PRML_Solutions
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 This repository contains my solutions to all the exercises in the book "Pattern Recognition and Machine Learning" by Christopher M. Bishop. I will be updating the repository as I work through the book.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------

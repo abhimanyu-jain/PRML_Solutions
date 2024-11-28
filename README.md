@@ -34,6 +34,12 @@ Solutions to most exercises from Chapter 5 committed. Missing Solutions to : 5.1
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+06-11-2024
+
+1st revision. Solutions to exercises 1.15, 1.16, 1.31, 1.32, 1.39, 2.17, 2.60, 2.61 committed, made additions and modifications to others.
+ 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Notes
 
 Note 1: For exercises identical to those in Mathematics for Machine Learning, I've referenced the solutions and avoided duplication.

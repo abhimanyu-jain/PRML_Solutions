@@ -40,6 +40,12 @@ Solutions to most exercises from Chapter 5 committed. Missing Solutions to : 5.1
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+20-04-2025
+
+Solutions to most exercises from Chapter 6 committed. Missing Solutions to : 6.1, 6.3, 6.9, 6.13, 6.17, 6.19
+ 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Notes
 
 Note 1: For exercises identical to those in Mathematics for Machine Learning, I've referenced the solutions and avoided duplication.

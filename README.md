@@ -59,3 +59,8 @@ Note 2: I typically utilize results directly from the Matrix Cookbook, with spec
 
 If you find any errors in the solutions or have suggestions for improvement, please feel free to submit a pull request. Your contributions are greatly appreciated!
 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📬 Contact: abhimanyujain2k6 [at] gmail [dot] com
+

@@ -46,6 +46,12 @@ Solutions to most exercises from Chapter 6 committed. Missing Solutions to : 6.1
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+25-11-2026
+
+Finished 1 full read of the book, and committed solutions to selected exercises from Chapter 7 - 14, mostly targeting [one star ∩ www] ones to emphasize the easy but conceptually important ones. Remaining exercises will be committed slowly as I work through them and utilize them as a way to revisit and reinforce concepts from the book.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Notes
 
 Note 1: For exercises identical to those in Mathematics for Machine Learning, I've referenced the solutions and avoided duplication.
